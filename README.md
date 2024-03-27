@@ -4,9 +4,9 @@
 
 **Talking about Personal Stuffs:**
 
-- Senior Software Engineer with a focus on backend development.
-- Proficient in Python and Go, with knowledge of Java, JavaScript, and C.
-- I'm currently learning front-end development, including React.
+- A Senior Software Engineer focused on backend development.
+- Proficient in Python and Go; knowledgeable in Java, JavaScript, and C.
+- Currently expanding expertise into front-end development and learning Rust.
 
 
 
