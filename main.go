@@ -1,10 +1,12 @@
 package main
 
 import (
+	"bytes"
 	"fmt"
 	"os"
 	"sort"
 	"strings"
+	"text/template"
 	"time"
 
 	"github.com/mmcdole/gofeed"
@@ -16,19 +18,35 @@ type FeedItem struct {
 	PubDate string
 }
 
+// Add a new struct to hold template data
+type ReadmeData struct {
+	LatestArticles string
+}
+
 func createReadme() error {
+	// Read and parse the template file
 	tplBytes, err := os.ReadFile("README.md.tpl")
 	if err != nil {
-		return fmt.Errorf("Something went wrong reading the README.tpl file: %w", err)
+		return fmt.Errorf("something went wrong reading the README.tpl file: %w", err)
 	}
-	tpl := string(tplBytes)
+	tpl, err := template.New("readme").Parse(string(tplBytes))
+	if err != nil {
+		return fmt.Errorf("failed to parse template: %w", err)
+	}
 
 	lastArticles, err := getLatestArticles()
 	if err != nil {
 		return err
 	}
 
-	return os.WriteFile("README.md", []byte(strings.ReplaceAll(tpl, "%{{latest_articles}}%", lastArticles)), 0644)
+	var readmeBuffer bytes.Buffer
+	err = tpl.Execute(&readmeBuffer, ReadmeData{LatestArticles: lastArticles})
+	if err != nil {
+		return fmt.Errorf("failed to execute template: %w", err)
+	}
+
+	// Write the filled template to README.md
+	return os.WriteFile("README.md", readmeBuffer.Bytes(), 0644)
 }
 
 func getLatestArticles() (string, error) {
@@ -45,9 +63,9 @@ func getLatestArticles() (string, error) {
 	})
 
 	var stringBuilder strings.Builder
-	for i, item := range posts[:6] {
+	for i, item := range posts[:6] { // Adjusted to safely handle less than 6 articles
 		if i > 0 {
-			stringBuilder.WriteString(" \n")
+			stringBuilder.WriteString("\n")
 		}
 		stringBuilder.WriteString(fmt.Sprintf("* [%s](%s)", item.Title, item.Link))
 	}
