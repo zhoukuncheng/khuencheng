@@ -33,4 +33,4 @@ jobs:
           git config user.email zhoukun.dev@gmail.com
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "[gh-action] Update README"
-          git push origin master
+          git push origin main
