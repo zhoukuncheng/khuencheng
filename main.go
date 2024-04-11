@@ -78,6 +78,6 @@ func main() {
 	if err := createReadme(); err != nil {
 		fmt.Printf("Oops! There was an error: %v\n", err)
 	} else {
-		fmt.Println("README.md file generated correctly")
+		fmt.Println("README.md file generated correctly.")
 	}
 }
