@@ -26,7 +26,7 @@ jobs:
       - name: Run
         run: ./main
       - name: Update README and Push
-      - run: |
+        run: |
           git config user.name zhoukuncheng
           git config user.email zhoukun.dev@gmail.com
           git add README.md
