@@ -45,7 +45,7 @@ func getLatestArticles() (string, error) {
 	})
 
 	var stringBuilder strings.Builder
-	for i, item := range posts[:5] {
+	for i, item := range posts[:6] {
 		if i > 0 {
 			stringBuilder.WriteString(" \n")
 		}

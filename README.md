@@ -30,13 +30,14 @@ I'm a Full-Stack developer with a focus on backend development, proficient in Py
 <br />
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoukuncheng&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoukuncheng&layout=compact&hide_title=1&card_width=360" alt="Top language used in my repos" />
   <br />
   <br />
 </div>
 
+<br />
 
-I'm currently having some spare time and am willing to contribute to any interesting open-source projects.
+I currently have some spare time and am willing to contribute to any interesting open-source projects.
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api?username=zhoukuncheng&show_icons=true&hide_border=true&card_width=300" alt="Github activities" />
@@ -48,13 +49,15 @@ I'm currently having some spare time and am willing to contribute to any interes
 
 
 <br />
+<br />
 
-#### 📖 &nbsp;&nbsp;[blog](https://zhoukuncheng.github.io/): Last 5 articles
+#### 📖 &nbsp;&nbsp;[blog](https://zhoukuncheng.github.io/): Last 6 articles
 * [Traefik Architecture and Source Code Analysis: A Deep Dive](https://zhoukuncheng.github.io/posts/traefik-architecture-and-source-code-analysis/) 
 * [Streamlining Real-Time Data: Master HTML5 SSE like ChatGPT](https://zhoukuncheng.github.io/posts/html5-sse/) 
 * [如何成为开源项目的贡献者](https://zhoukuncheng.github.io/posts/opensource-contribution/) 
 * [Structured concurrency](https://zhoukuncheng.github.io/posts/structured-concurrency/) 
-* [Go 1.18 泛型介绍](https://zhoukuncheng.github.io/posts/go-generics/)
+* [Go 1.18 泛型介绍](https://zhoukuncheng.github.io/posts/go-generics/) 
+* [通过 gRPC-Gateway 开发 RESTful API](https://zhoukuncheng.github.io/posts/go-grpc-gateway/)
 
 <br />
 

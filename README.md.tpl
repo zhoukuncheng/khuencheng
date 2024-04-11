@@ -30,7 +30,7 @@ I'm a Full-Stack developer with a focus on backend development, proficient in Py
 <br />
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoukuncheng&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoukuncheng&layout=compact&hide_title=1&card_width=360" alt="Top language used in my repos" />
   <br />
   <br />
 </div>
@@ -51,7 +51,7 @@ I currently have some spare time and am willing to contribute to any interesting
 <br />
 <br />
 
-#### 📖 &nbsp;&nbsp;[blog](https://zhoukuncheng.github.io/): Last 5 articles
+#### 📖 &nbsp;&nbsp;[blog](https://zhoukuncheng.github.io/): Last 6 articles
 %{{latest_articles}}%
 
 <br />
