@@ -63,5 +63,5 @@ I currently have some spare time and am eager to contribute to any intriguing op
 - Technology and Software
 - Travel and Exploration
 - Reading: Finance, Manga, and Fiction
-- Movies and TV Shows, with a special fondness for Sci-Fi
+- Movies, TV Shows, and Anime, with a special fondness for Sci-Fi
 - Gaming
