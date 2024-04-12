@@ -12,12 +12,16 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://t.me/jackchan_dev" target="_blank" style='margin-right:10px'>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/zhoukuncheng/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zhoukun.dev@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="22px" width="22px" />
   </a>
 </p>
 <br />
