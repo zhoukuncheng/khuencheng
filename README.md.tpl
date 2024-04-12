@@ -23,9 +23,11 @@
 <br />
 <br />
 
-<div align="left">
-I'm a Full-Stack developer with a focus on backend development, proficient in Python and Go, and knowledgeable in Java, JavaScript, and C. I'm currently expanding my expertise into front-end development and learning Rust.<br />
-</div>
+
+I'm a Full-Stack Developer with a strong focus on backend development, skilled in Python and Go, and well-versed in Java, JavaScript, and C. I'm currently broadening my skill set into front-end development and diving into Rust.
+<br />
+
+Areas of interest: Finance, Cybersecurity, Cloud Native technologies, and LLM.
 
 <br />
 
@@ -37,7 +39,7 @@ I'm a Full-Stack developer with a focus on backend development, proficient in Py
 
 <br />
 
-I currently have some spare time and am willing to contribute to any interesting open-source projects.
+I currently have some spare time and am eager to contribute to any intriguing open-source projects.
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api?username=zhoukuncheng&show_icons=true&hide_border=true&card_width=300" alt="Github activities" />
@@ -58,8 +60,8 @@ I currently have some spare time and am willing to contribute to any interesting
 
 #### 🧡 &nbsp;&nbsp;My Passions
 
- - Technology and software
- - Traveling
- - Books (Finance, Manga, Fiction)
- - Movies and TV shows (especially Sci-Fi)
- - Games
+- Technology and Software
+- Travel and Exploration
+- Reading: Finance, Manga, and Fiction
+- Movies and TV Shows, with a special fondness for Sci-Fi
+- Gaming
