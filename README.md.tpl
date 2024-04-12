@@ -53,7 +53,7 @@ I currently have some spare time and am eager to contribute to any intriguing op
 <br />
 <br />
 
-#### 📖 &nbsp;&nbsp;[blog](https://zhoukuncheng.github.io/): Last 6 articles
+#### 📖 &nbsp;&nbsp;[Blog](https://zhoukuncheng.github.io/): Last 6 articles
 {{.LatestArticles}}
 
 <br />
