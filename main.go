@@ -46,7 +46,7 @@ func createReadme() error {
 	}
 
 	// Write the filled template to README.md
-	return os.WriteFile("README.md", readmeBuffer.Bytes(), 0644)
+	return os.WriteFile("README.md", readmeBuffer.Bytes(), 0o644)
 }
 
 func getLatestArticles() (string, error) {
