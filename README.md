@@ -53,7 +53,7 @@ I currently have some spare time and am eager to contribute to any intriguing op
 <br />
 <br />
 
-#### 📖 &nbsp;&nbsp;[blog](https://zhoukuncheng.github.io/): Last 6 articles
+#### 📖 &nbsp;&nbsp;[Blog](https://zhoukuncheng.github.io/): Last 6 articles
 * [Traefik Architecture and Source Code Analysis: A Deep Dive](https://zhoukuncheng.github.io/posts/traefik-architecture-and-source-code-analysis/)
 * [Streamlining Real-Time Data: Master HTML5 SSE like ChatGPT](https://zhoukuncheng.github.io/posts/html5-sse/)
 * [如何成为开源项目的贡献者](https://zhoukuncheng.github.io/posts/opensource-contribution/)
