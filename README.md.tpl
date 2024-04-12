@@ -27,7 +27,7 @@
 I'm a Full-Stack Developer with a strong focus on backend development, skilled in Python and Go, and well-versed in Java, JavaScript, and C. I'm currently broadening my skill set into front-end development and diving into Rust.
 <br />
 
-Areas of interest: Finance, Cybersecurity, Cloud Native technologies, and LLM.
+Areas of interest: Finance, Cybersecurity, Cloud Native technologies, and Large Language Models (LLMs).
 
 <br />
 
