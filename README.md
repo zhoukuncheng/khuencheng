@@ -67,6 +67,7 @@ I currently have some spare time and am eager to contribute to any intriguing op
 
 <br />
 
+
 #### 🧡 &nbsp;&nbsp;My Passions
 
 - Technology and Software
